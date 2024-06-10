@@ -74,20 +74,6 @@ Monica is an open-source web application that enables you to document your life,
 - Labels to organize contacts
 - Ability to define what section should appear on the contact sheet
 - Multiple currencies
-- Translated in 27 languages
-
-### Who is it for?
-
-This project is for people who want to document their lives and those who have difficulty remembering details about the lives of people they care about.
-
-We’ve also had a lot of positive reviews from people with Asperger syndrome, Alzheimer’s disease, and introverts who use our app every day.
-
-### What Monica isn’t
-
-- Monica is not a social network and **it never will be**. It’s not meant to be social. It’s designed to be the opposite: it’s for your eyes only.
-- Monica is not a smart assistant. It won’t guess what you want to do. It’s actually pretty dumb: it will only send you emails for the things you asked to be reminded of.
-- Monica does not have built-in AI with integrations like ChatGPT.
-- Monica is not a tool that will scan your data and do nasty things with it. It’s your data, your server, do whatever you want with it. You’re in control of your data.
 
 ## Contribute
 
